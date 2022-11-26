@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Project Management**
 
 - 🌱 I’m currently learning **ML,AI,DL**
-- 👨‍ I'm currently Odoo Functional at [@Doosys](https://www.doosys.ma/)
+- 👨‍ I'm currently Consultant technico-fonctional at [@Econostic](https://www.econostic.com/)
 - 👨‍💻 All of my projects are available at [http://karjout.me/](http://karjout.me/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
