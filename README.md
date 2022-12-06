@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ML,AI,DL**
 - 👨‍ I'm currently Consultant technico-fonctional at [@Econostic](https://www.econostic.com/)
-- 👨‍💻 All of my projects are available at [http://karjout.me/](http://karjout.me/)
+- 👨‍💻 All of my projects are available at [http://karjout.me/](https://karjout.me/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
 
