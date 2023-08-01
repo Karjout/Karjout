@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Project Management**
 
-- 🌱 I’m currently learning **ML,AI,DL**
+- 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
 - 👨‍ I'm currently Consultant technico-fonctional at [@Econostic](https://www.econostic.com/)
 - 👨‍💻 All of my projects are available at [https://karjout.me/](https://karjout.me/)
 
