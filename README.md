@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Project Management**
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
-- 👨‍ I'm currently Consultant technico-fonctional at [@Econostic](https://www.econostic.com/)
+- 👨‍ I'm currently Consultant technico-fonctional at <s>[@Econostic]</s>(https://www.econostic.com/)
 - 👨‍💻 All of my projects are available at [https://karjout.me/](https://karjout.me/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
