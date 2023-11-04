@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
 - 👨‍ I'm currently Consultant technico-fonctional at <s>[@Econostic]</s>
-- 👨‍💻 All of my projects are available at [https://karjout.me/](https://karjout.tech/)
+- 👨‍💻 All of my projects are available at [https://karjout.tech/](http://karjout.tech/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
 
