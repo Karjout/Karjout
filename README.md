@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Project Management**
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
-- 👨‍ I'm currently Consultant technico-fonctional at <s>[@Econostic]</s>
+- 👨‍ I'm currently Senior Consultant technico-fonctional at Global Performance Business Service [https://www.globalperformance.ma/en](https://www.globalperformance.ma/en)
 - 👨‍💻 All of my projects are available at [https://karjout.tech/](http://karjout.tech/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
