@@ -1,11 +1,10 @@
 <h3 align="center">A passionate ML enginner from Morocco-Phd Student
 </h3>
-<center>
+<h3 align="center">  
   
 [![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
-</center>
-
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karjout&label=Profile%20views&color=0e75b6&style=flat" alt="karjout" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karjout" alt="karjout" /></a> </p>
