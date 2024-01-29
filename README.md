@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/akarjout" target="blank"><img src="https://img.shields.io/twitter/follow/akarjout?logo=twitter&style=for-the-badge" alt="akarjout" /></a> </p>
 
-- 🔭 I’m currently working on **Project Management**
+- 🔭 I’m currently working on **helpdesk ticket**
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
 - 👨‍ I'm currently Senior Consultant technico-fonctional at Global Performance Business Service [https://www.globalperformance.ma/en](https://www.globalperformance.ma/en)
