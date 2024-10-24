@@ -1,0 +1,24 @@
+image: atlassian/default-image:2
+pipelines:
+    branches:
+      develop:
+        - step:
+           script:
+             - git remote add sync git@github.com:Karjout/Karjout.git
+             - git checkout develop
+             - git pull    
+             - git push sync develop
+      staging:
+        - step:
+           script:
+             - git remote add sync git@github.com:Karjout/Karjout.git
+             - git checkout staging
+             - git pull    
+             - git push sync staging
+      master:
+        - step:
+           script:
+             - git remote add sync git@github.com:Karjout/Karjout.git
+             - git checkout master
+             - git pull    
+             - git push sync master
