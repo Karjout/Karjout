@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **helpdesk ticket**
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
-- 👨‍ I'm currently Senior Consultant technico-fonctional at Global Performance Business Service [https://www.globalperformance.ma/en](https://www.globalperformance.ma/en)
+- 👨‍ I'm currently Senior Consultant technico-fonctional at Obystech Solutions [https://www.obystech.com](https://www.obystech.com)
 - 👨‍💻 All of my projects are available at [https://karjout.tech/](http://karjout.tech/)
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
