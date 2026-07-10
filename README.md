@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently  preparing for my PhD **ML,AI,DL**
 - 👨‍ I'm currently Senior Consultant technico-fonctional at Obystech Solutions [https://www.obystech.com](https://www.obystech.com)
-- 👨‍💻 All of my projects are available at [https://www.karjout.com/](http://www.karjout.com/)
+- 👨‍💻 All of my projects are available at <p align="left"> <a href="https://www.karjout.com" target="blank">
 
 - 📫 How to reach me **karjout.abdeslam@gmail.com**
 
